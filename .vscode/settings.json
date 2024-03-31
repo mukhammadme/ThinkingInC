@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "limits.h": "c",
-        "mystuff.h": "c"
-    }
+        "mystuff.h": "c",
+        "string.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
